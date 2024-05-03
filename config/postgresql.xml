@@ -22,6 +22,7 @@
             <pg_cituscompat>false</pg_cituscompat>
             <pg_storedprocs>false</pg_storedprocs>
             <pg_partition>false</pg_partition>
+            <pg_no_stored_procs>false</pg_no_stored_procs>
         </schema>
         <driver>
             <pg_total_iterations>10000000</pg_total_iterations>
